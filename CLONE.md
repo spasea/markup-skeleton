@@ -5,7 +5,7 @@
 ```
 git clone git@github.com:spasea/markup-skeleton.git YOUR_PROJECT_NAME
 ```
-- cd YOUR_PROJECT_NAME
+- cd ```YOUR_PROJECT_NAME```
 - remove the origin and add yours one
 ```
 git remote remove origin
