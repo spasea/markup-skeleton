@@ -2,4 +2,4 @@
 
 ## To start developing
 - ```npm install```
-- ```serve -s .```
+- ```serve .```
